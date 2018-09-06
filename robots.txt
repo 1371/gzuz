@@ -1,0 +1,8 @@
+User-agent: *
+Disallow:
+Disallow: /404
+Disallow: /gruzchiki-kaluga
+Disallow: /vyvoz-musora-kaluga
+Disallow: /vyvoz-stroitelnogo-musora
+Host: http://xn--40-glcqfan9b1a5b.xn--p1ai
+Sitemap: http://xn--40-glcqfan9b1a5b.xn--p1ai/sitemap.xml
