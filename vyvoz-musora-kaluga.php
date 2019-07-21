@@ -609,9 +609,7 @@
 
     <div class="gz-footer__row gz-footer__row--menu row">
       <div class="col-xs-12">
-      <div class="col-xs-12">
-	        <p style="margin-bottom: 15px;font-size: 13px;">Продвижение сайта <a style="text-decoration: underline;" href="http://dubkov.org" rel="nofollow">Студия Николая Дубкова</a></p>
-      </div>
+	  <p style="margin-bottom: 15px;font-size: 13px;">Продвижение сайта <a style="text-decoration: underline;" href="http://dubkov.org" rel="nofollow">Студия Николая Дубкова</a></p>
       </div>
     </div>
   </div>
